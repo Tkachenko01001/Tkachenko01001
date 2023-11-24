@@ -32,7 +32,7 @@
 ![Coding Hours](https://img.shields.io/badge/700%2B-blue?style=for-the-badge&labelColor=black&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tkachenko01001&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Tkachenko01001&theme=react&hide_border=false&show_icons=true&hide=stars,issues,contribs&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tkachenko01001&theme=react&hide_border=false)<br/>
 
 ### 😂 Random Dev Meme
