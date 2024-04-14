@@ -1,7 +1,7 @@
 # 💼 About Me:
 🔭 Currently crafting two exciting projects:<br>   
     1. An e-commerce platform with CRM integration.<br>   
-    2. My personal venture—a marketplace.<br><br>👨‍💻 Actively seeking opportunities as a Front-end or Full Stack Developer.<br><br>🌱 Currently diving deep into TypeScript and Next.js for enhanced development skills.<br><br>🏋️‍♂️ Outside of coding, I'm disciplined and dedicated to personal growth, actively engaged in sports.<br><br>🎯 Let's build something extraordinary together!<br><br>🌐 Check out my portfolio [here](https://tkachenko01001.github.io/Portfolio/).
+    <br>👨‍💻 Actively seeking opportunities as a Front-end or Full Stack Developer.<br><br>🌱 Currently diving deep into TypeScript and Next.js for enhanced development skills.<br><br>🏋️‍♂️ Outside of coding, I'm disciplined and dedicated to personal growth, actively engaged in sports.<br><br>🎯 Let's build something extraordinary together!<br><br>🌐 Check out my portfolio [here](https://tkachenko01001.github.io/Portfolio/).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/denis-tkachenko-developer)
@@ -30,12 +30,5 @@
 
 # ⏰ Coding Hours:
 ![Coding Hours](https://img.shields.io/badge/700%2B-blue?style=for-the-badge&labelColor=black&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tkachenko01001&theme=react&hide_border=false&show_icons=true&hide=stars,issues,contribs&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tkachenko01001&theme=react&hide_border=false)<br/>
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
