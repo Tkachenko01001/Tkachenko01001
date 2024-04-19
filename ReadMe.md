@@ -1,7 +1,7 @@
 # 💼 About Me:
 🔭 Currently crafting two exciting projects:<br>   
     1. An e-commerce platform with CRM integration.<br>   
-    <br>👨‍💻 Actively seeking opportunities as a Front-end or Full Stack Developer.<br><br>🌱 Currently diving deep into TypeScript and Next.js for enhanced development skills.<br><br>🏋️‍♂️ Outside of coding, I'm disciplined and dedicated to personal growth, actively engaged in sports.<br><br>🎯 Let's build something extraordinary together!<br><br>🌐 Check out my portfolio [here](https://portfolioo-6wgo.vercel.app).
+    <br>👨‍💻 Actively seeking opportunities as a Front-end or Full Stack Developer.<br><br>🏋️‍♂️ Outside of coding, I'm disciplined and dedicated to personal growth, actively engaged in sports.<br><br>🎯 Let's build something extraordinary together!<br><br>🌐 Check out my portfolio [here](https://portfolioo-6wgo.vercel.app).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/denis-tkachenko-developer)
