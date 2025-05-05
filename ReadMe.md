@@ -1,16 +1,16 @@
-Frontend Developer | JavaScript • TypeScript • React • Next.js • Tailwind • Zustand
+# Denis Tkachenko
 
-Crafting clean, responsive interfaces with a focus on performance and user experience.
+**Frontend Developer**  
+Next.js • TypeScript • Tailwind CSS • Zustand • Shadcn/UI
+
+Building fast, clean, and scalable interfaces with modern tools.
 
 ---
 
-## Connect with me
+## Socials
 
-<p align="left">
-  <a href="https://linkedin.com/in/denis-tkachenko-developer" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" />
-  </a>
-  <a href="https://t.me/Tk_d_01" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" height="30" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/denis-tkachenko-developer)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Tk_d_01)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Tk-d-01)
+
+---
