@@ -1,8 +1,16 @@
-🌐 Check out my portfolio [here](https://portfolioo-6wgo.vercel.app).
+Frontend Developer | JavaScript • TypeScript • React • Next.js • Tailwind • Zustand
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/denis-tkachenko-developer)
-[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/Tk_d_01)
+Crafting clean, responsive interfaces with a focus on performance and user experience.
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/denis-tkachenko-developer" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" />
+  </a>
+  <a href="https://t.me/Tk_d_01" target="_blank">
+    <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" height="30" />
+  </a>
+</p>
