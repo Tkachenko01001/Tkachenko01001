@@ -18,24 +18,6 @@ I am a full-stack developer who enjoys building scalable and high-performance we
 
 ---
 
-### 🛠️ Tech Stack
-
-Here’s what I work with and what helps me turn ideas into code:
-
-**Frontend:**
-
-![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,typescript,tailwind,css,redux,graphql,)
-
-**Backend:**
-
-![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres)
-
-**Tools:**
-
-![My Skills](https://skillicons.dev/icons?i=git,github,vercel,postman,notion)
-
----
-
 ### 📫 How to Contact Me
 
 * **Email:** [dtkachenko01001@gmail.com](mailto:dtkachenko01001@gmail.com)
