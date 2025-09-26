@@ -18,13 +18,6 @@ I am a full-stack developer who enjoys building scalable and high-performance we
 
 ---
 
-### 📫 How to Contact Me
-
-* **Email:** [dtkachenko01001@gmail.com](mailto:dtkachenko01001@gmail.com)
-* **Telegram:** [@Tk_d_01](https://t.me/Tk_d_01)
-
----
-
 <p align="center">
   <i>Thanks for stopping by! 🫡</i>
 </p>
